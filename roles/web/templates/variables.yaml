@@ -1,0 +1,11 @@
+
+MONGODB_HOST: mongodb.navagesh.store # submit your host
+REDIS_HOST: redis.navagesh.store
+MYSQL_HOST: mysql.navagesh.store
+RABBITMQ_HOST: rabbitmq.navagesh.store
+CATALOGUE_HOST: catalogue.navagesh.store
+USER_HOST: user.navagesh.store
+CART_HOST: cart.navagesh.store
+SHIPPING_HOST: shipping.navagesh.store
+PAYMENT_HOST: payment.navagesh.store
+DISPATCH_HOST: dispatch.navagesh.store
